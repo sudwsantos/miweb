@@ -1,4 +1,0 @@
-Archivo 2 Probando
-nuevo cambio
-
-Probando el segundo commit
